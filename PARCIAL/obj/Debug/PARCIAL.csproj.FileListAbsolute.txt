@@ -1,0 +1,5 @@
+C:\Users\danie\OneDrive\Escritorio\PROGRAMACIONI2024\PARCIAL\obj\Debug\PARCIAL.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\PROGRAMACIONI2024\PARCIAL\obj\Debug\PARCIAL.Form1.resources
+C:\Users\danie\OneDrive\Escritorio\PROGRAMACIONI2024\PARCIAL\obj\Debug\PARCIAL.Properties.Resources.resources
+C:\Users\danie\OneDrive\Escritorio\PROGRAMACIONI2024\PARCIAL\obj\Debug\PARCIAL.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Escritorio\PROGRAMACIONI2024\PARCIAL\obj\Debug\PARCIAL.csproj.CoreCompileInputs.cache
