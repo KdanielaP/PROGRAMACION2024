@@ -1,0 +1,4 @@
+C:\Users\danie\OneDrive\Escritorio\PROGRAMACIONI2024\semana_13\obj\Debug\net8.0-windows\App.baml
+C:\Users\danie\OneDrive\Escritorio\PROGRAMACIONI2024\semana_13\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\danie\OneDrive\Escritorio\PROGRAMACIONI2024\semana_13\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\danie\OneDrive\Escritorio\PROGRAMACIONI2024\semana_13\obj\Debug\net8.0-windows\semana_13_MarkupCompile.cache
